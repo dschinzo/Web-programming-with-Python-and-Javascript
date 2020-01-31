@@ -1,12 +1,29 @@
 body {
 background-image: url('main.jpeg');
 background-repeat: no-repeat;
-background-blend-mode: overlay;
+}
+table {
+    border: 2px solid white;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    border: 1px solid white;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+ul {
+    color: azure;
 }
 
 h1 {
     color: rgb(124, 226, 150);
-    text-align: center;
 }
 
 p {
