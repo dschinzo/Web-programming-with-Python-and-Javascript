@@ -1,0 +1,19 @@
+body {
+background-image: url('main.jpeg');
+background-repeat: no-repeat;
+background-blend-mode: overlay;
+}
+
+h1 {
+    color: rgb(124, 226, 150);
+    text-align: center;
+}
+
+p {
+    color: rgb(35, 231, 245);
+}
+
+h2 {
+    color: rgb(23, 210, 73);
+    text-align: center;
+}
