@@ -1,0 +1,2 @@
+# Provide the FLASK_APP environment variable
+export FLASK_APP=application.py
