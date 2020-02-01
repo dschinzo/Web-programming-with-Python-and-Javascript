@@ -9,3 +9,7 @@ def index():
 @app.route("/david")
 def david():
     return "Hello, David!"
+
+@app.route("/chinzo")
+def chinzo():
+    return "Hello, Chinzo!"
